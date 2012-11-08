@@ -11,6 +11,7 @@ public class mainClass {
 		
 		myTime.setTime(9, 35, 3);
 		
+		// TIME //
 		System.out.println(myTime.toMilitary());
 	}
 
